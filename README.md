@@ -6,41 +6,41 @@ Ligações para conteúdos lectivos de anos anteriores: [Computação Multimédi
 
 # Sumários:
 
-## Aula 1 - 16set26
+## Aula 1 - 16set26 - Introdução, demonstrações, esboço de projecto final expectável
 
 Introdução à secção da UC de Computação Multimédia dedicada à programação de sistemas interactivos e ambientes jogáveis. Introdução geral a todas as componentes da UC: História de Arte Computacional, Modelação e Animação 3D, Programação de Sistemas Interactivos e Ambientes Jogáveis, Projecto Final.
 
 Introdução às ferramentas utilizadas nas aulas, e indicações de outras ferramentas passíveis de utilização. Noções introdutórias de programação. Declarações, valores, sintaxe, variáveis, expressões matemáticas como argumentos, funções, classes, condições, ciclos. 
 
-Ponto, Linha, Plano, em código, e manualmente sem código, com objectos. Programas estáticos e dinâmicos. Transformação de exemplo gráfico 2D numa experiência jogável simples. Exemplo ilustrativo de objectivos finais da secção da UC, incluindo navegação em espaço tridimensional, com as teclas WASD e movimentação ponto de vista com o rato, num espaço 3D que recria uma galeria num espaço virtual, com portais de transporte para outras zonas virtuais. Exemplos 2D simples nas duas ferramentas. Exemplos de trabalhos de artes electrónicas históricos. Exemplos de trabalhos de artes electrónicas jogáveis. Indicação de referências bibliográficas para acompanhar o curso e aprofundar conhecimentos.
+Ponto, Linha, Plano, em código, e manualmente sem código, com objectos. Programas estáticos e dinâmicos. Transformação de exemplo gráfico 2D numa experiência jogável simples. Exemplo ilustrativo de objectivos finais da secção da UC, incluindo navegação em espaço tridimensional, com as teclas WASD e movimentação ponto de vista com o rato, num espaço 3D que recria uma galeria num espaço virtual, com portais de transporte para outras zonas virtuais. Exemplos 2D simples nas duas ferramentas. Exemplos de trabalhos pioneiros e históricos de artes electrónicas e computacionais. Exemplos de trabalhos de artes computacionais e electrónicas jogáveis. Indicação de referências bibliográficas para acompanhar o curso e aprofundar conhecimentos.
 
 [Link para os conteúdos vistos em aula](https://drive.google.com/drive/folders/1RAMWKB3Q2ehJG3ZV4BEZGZ2OkijOHqum?usp=sharing)
 
-## Aula 2 - 23set26
+## Aula 2 - 23set26 - 2D #0
 
-## Aula 3 - 30set26
+## Aula 3 - 30set26 - 2D #1
 
-## Aula 4 - 7out26
+## Aula 4 - 7out26 - 3D #0
 
-## Aula 5 - 14out26
+## Aula 5 - 14out26 - 3D #1
 
-## Aula 6 - 21out26
+## Aula 6 - 21out26 - 3D #2
 
-## Aula 7 - 28out26
+## Aula 7 - 28out26 - Laboratório Projecto Final
 
-## Aula 8 - 4nov26
+## Aula 8 - 4nov26 - Laboratório Projecto Final
 
-## Aula 9 - 11nov26
+## Aula 9 - 11nov26 - Laboratório Projecto Final
 
-## Aula 10 - 18nov26
+## Aula 10 - 18nov26 - Laboratório Projecto Final
 
-## Aula 11 - 25nov26
+## Aula 11 - 25nov26 - Laboratório Projecto Final
 
-## Aula 12 - 2dez26
+## Aula 12 - 2dez26 - Laboratório Projecto Final
 
-## Aula 13 - 9dez26
+## Aula 13 - 9dez26 - Apresentações e Laboratório Projecto Final
 
-## Aula 14 - 16dez26
+## Aula 14 - 16dez26 - Apresentações e Laboratório Projecto Final
 
 
 
