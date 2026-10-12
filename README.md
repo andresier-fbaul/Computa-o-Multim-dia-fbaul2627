@@ -18,9 +18,22 @@ Ponto, Linha, Plano, em código, e manualmente sem código, com objectos. Progra
 
 ## Aula 2 - 23set26 - 2D #0
 
+Introdução a gráficos 2D. Point, line, rect, ellipse. Fill, stroke. Exercícios de desenhar e acumular gráficos com o rato e controlo de fluxo. Desenhar imagens. Pontilhismo com imagens. Exercício.
+
 ## Aula 3 - 30set26 - 2D #1
 
+FBAUL encerrada dia 30set26 devido a problemas na qualidade da água para a cantina. Aula a ser reposta dia 14 Dezembro.
+
 ## Aula 4 - 7out26 - 3D #0
+## Aula 3,4 - 7out26 - 2D #1 e 3D #0
+
+(Aula 3,4. FBAUL interdita passado dia 30 Out - Aula a repor dia 14 Dez 26)
+
+Revisões 2D. Cores (fill, stroke). Formas (point, line, rect, ellipse, triangle, beginshape, endshape). Imagens (image(...), background(image))
+
+Exercício #1 - Realizar composição gráfica com os conhecimentos adquiridos e investigados. Capturar ecrã com a composição 2D gráfica finalizada e do código-fonte/programa que a origina. Submeter a captura de ecrã, identificando nome e número alun@, na plataforma aberta github das aulas(https://github.com/andresier-fbaul/Computa-o-Multim-dia-fbaul2627), no issue #1 (exercício 1, https://github.com/andresier-fbaul/Computa-o-Multim-dia-fbaul2627/issues/1 ). Submeter de 7 Outubro até dia 14 Outubro. (Quem submeteu antecipadamente, ou fora de sítio, apagar a submissão, resubmeter dentro dos prazos apresentados). Alunos que entraram na 2ª fase têm mais uma semana de tolerância para entrega deste primeiro exercício simples. Exercício pode ser entregue até final do semestre, fora do prazo, descontando 1 valor da nota máxima possível.
+
+Introdução ao 3D. Cores. Formas. Transformações geométricas. Ponto de vista (câmara). Luz/Sol.
 
 ## Aula 5 - 14out26 - 3D #1
 
