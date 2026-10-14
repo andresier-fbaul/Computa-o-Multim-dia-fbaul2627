@@ -37,6 +37,9 @@ Introdução ao 3D. Cores. Formas. Transformações geométricas. Ponto de vista
 
 ## Aula 5 - 14out26 - 3D #1
 
+Crítica e feedback do exercício 1 apresentado. Continuação da introdução ao 3D. Introdução à manufactura de cenas em Godot e sistemas de edificação hieráquicos em árvores variáveis. Animações de propriedades de objectos. Importação de objectos, cenas Blender. Geometria Sólida Construtiva. Sistemas de partículas. Sistemas físicos.
+
+
 ## Aula 6 - 21out26 - 3D #2
 
 ## Aula 7 - 28out26 - Laboratório Projecto Final
