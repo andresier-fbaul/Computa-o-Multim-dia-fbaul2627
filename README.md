@@ -42,6 +42,11 @@ Crítica e feedback do exercício 1 apresentado. Continuação da introdução a
 
 ## Aula 6 - 21out26 - 3D #2
 
+Revisões 3D. Análise detalhada do projecto CM_3d_01, Galeria25.
+
+Exercício #2 - Realizar composição gráfica animada com os conhecimentos adquiridos e investigados. Criar um vídeo no formato HD (720 ou 1080p), com ou sem som, de 1'00'' a 5'00''. Submeter o resultado numa plataforma aberta de acesso livre sem password. Incorporar o resultado, adicionar uma descrição, indicar o formato, e submeter no issue #2 ( exercício 2, https://github.com/andresier-fbaul/Computa-o-Multim-dia-fbaul2627/issues/2 ). Submeter de 21 Outubro até dia 11 Novembro. (Quem submeteu antecipadamente, ou fora de sítio, apagar a submissão, resubmeter dentro dos prazos apresentados). Exercício #1 e #2 podem ser entregues até final do semestre, fora do prazo, descontando 1 valor da nota máxima possível cada um.
+
+
 ## Aula 7 - 28out26 - Laboratório Projecto Final
 
 ## Aula 8 - 4nov26 - Laboratório Projecto Final
