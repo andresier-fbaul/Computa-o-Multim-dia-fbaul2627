@@ -49,6 +49,8 @@ Exercício #2 - Realizar composição gráfica animada com os conhecimentos adqu
 
 ## Aula 7 - 28out26 - Laboratório Projecto Final
 
+Revisões dos conteúdos 3D. Passagem de cenas de blender para godot. Tutoria individual aos exercícios. Início de trabalho no projecto final. 
+
 ## Aula 8 - 4nov26 - Laboratório Projecto Final
 
 ## Aula 9 - 11nov26 - Laboratório Projecto Final
